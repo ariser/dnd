@@ -1,1 +1,2 @@
-DND modules generator
+Solution Based Story Generator
+====================
