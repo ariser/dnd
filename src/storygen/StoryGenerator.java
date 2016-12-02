@@ -66,7 +66,7 @@ public class StoryGenerator {
         theft.resultsIn(escapeGuards);
         actions.add(theft);
 
-        Action work = new Action("work", "works and earns {product}");
+        Action work = new Action("work", "works and earns money");
         work.solves(moneyNeed);
         work.produces(money);
         work.resultsIn(fatigue);
