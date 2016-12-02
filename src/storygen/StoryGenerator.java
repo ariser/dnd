@@ -24,7 +24,7 @@ public class StoryGenerator {
         needs.add(thirst);
 
         Need fatigue = new Need("rest", "%1$s is tired.");
-        Need escapeGuards = new Need("escape guards", "Guards is now after %1$s.");
+        Need escapeGuards = new Need("escape guards", "Guards are now after %1$s.");
 
         Need moneyNeed = new Need("be rich", "%1$s want to be richer.");
         needs.add(moneyNeed);
